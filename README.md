@@ -57,7 +57,7 @@ Solucao: filtrar `ticket_resolvido = true` antes de calcular qualquer metrica de
 
 | Insight | Dados | Acao Recomendada |
 |---------|-------|-----------------|
-| Clientes que compram curso tem renda media mais alta | Curso R$ 8.510 vs Ebook R$ 8.347 | Estrategia de upsell de mentoria para base de ebook |
+| Os tres tipos de produto atendem um perfil de renda similar | Curso R$ 8.510 · Mentoria R$ 8.487 · Ebook R$ 8.347 | A escolha do produto nao e determinada pela renda — investigar outros fatores como objetivo e momento do cliente |
 | NPS mais alto se concentra em tickets resolvidos em 1 a 3 dias | zendesk filtrado | Definir SLA de resolucao com meta de ate 3 dias |
 | 20 atendentes concentram a maior parte dos tickets avaliados | relatorio_final | Foco em capacitacao dos demais para distribuir carga |
 
